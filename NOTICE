@@ -1,0 +1,5 @@
+This program bundles:
+
+ - msgpack: https://github.com/msgpack/msgpack-c. See `include` for details.
+ - catch: https://github.com/catchorg/Catch2. See `test/include` for details.
+
